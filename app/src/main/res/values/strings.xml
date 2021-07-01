@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">mQuiz</string>
+    <string name="welcome_text">Witaj</string>
+    <string name="enter_username">Wprowadź nazwę użytkownika</string>
+    <string name="username_hint">Nazwa użytkownika</string>
+    <string name="btn_start_text">Zaczynajmy</string>
+    <string name="btn_submit_text">Zatwierdź odpowiedź</string>
+    <string name="btn_finish_text">Zakończ</string>
+    <string name="btn_leader_text">Zobacz tablicę wyników</string>
+    <string name="quiz_result_text">Udało Ci się ukończyć quiz!</string>
+    <string name="leaderboard_text">Tablica wyników</string>
+    <string name="yay_desc">Yay Image</string>
+
+    <string name="hint_username">Nazwa</string>
+    <string name="hint_score">Wynik</string>
+</resources>

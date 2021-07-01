@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1025219072575",
+    "project_id": "mquizdb",
+    "storage_bucket": "mquizdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025219072575:android:926f5467ba69bc5048de8a",
+        "android_client_info": {
+          "package_name": "projekt.zaliczenie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025219072575-44t8km1iv0mo4t66iit7ch2dhjn7rjkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9EqGQhpI-YaqAUL0jaLIECXLu91SBPEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025219072575-44t8km1iv0mo4t66iit7ch2dhjn7rjkr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
